@@ -1,0 +1,2 @@
+# Information-Loss-Observatory-Data-Transformation-ML-Pipeline-Intelligence
+Information Loss Observatory is an end-to-end Data Science and Machine Learning Engineering platform that analyzes how data changes throughout an ML pipeline. It quantifies dataset loss, data-quality changes, missing values, distribution shifts, feature information, feature importance, and the effect of feature transformations 
